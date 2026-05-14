@@ -1,0 +1,19 @@
+{
+  "name": "GG_Dashbaord_v2_Chatgpt",
+  "version": "1.0.0",
+  "description": "React dashboard application",
+  "scripts": {
+    "lint": "echo \"Add ESLint configuration\"",
+    "test": "echo \"Add test framework (jest/vitest)\"",
+    "build": "echo \"Add build step (vite/webpack)\"",
+    "dev": "echo \"Add dev server\""
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "license": "MIT"
+}
